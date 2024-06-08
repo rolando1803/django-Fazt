@@ -1,0 +1,7 @@
+![image](https://github.com/rolando1803/django-Fazt/assets/55965131/962170ed-8cc0-4438-8cb4-b9cfe4967c34)
+![image](https://github.com/rolando1803/django-Fazt/assets/55965131/f04edc2b-5a27-4b10-8178-89b625e10f3a)
+![image](https://github.com/rolando1803/django-Fazt/assets/55965131/a88acaab-a904-4548-abe2-5e12a4493ad6)
+![image](https://github.com/rolando1803/django-Fazt/assets/55965131/b00fbe76-dd23-4616-addb-5ff61d9e1de9)
+![image](https://github.com/rolando1803/django-Fazt/assets/55965131/b2c3014e-a608-4571-a462-62bf00b9d914)
+![image](https://github.com/rolando1803/django-Fazt/assets/55965131/88ef2bf2-5741-4ea8-9bdb-21c5f73b4a65)
+![image](https://github.com/rolando1803/django-Fazt/assets/55965131/9f1f8ae1-bc73-4043-8f72-40fa1a74c5a8)
